@@ -13,11 +13,11 @@ I embarked on this project on December 14, 2023, with the primary objective of d
 
   The task of setting up the production environment marked the most challenging milestone I have encountered throughout the course. Initially, I faced difficulties due to some early mistakes in the project, particularly when these errors began to emerge during this phase. Despite these setbacks, I managed to establish a solid foundation for my cloud-based database system on Azure, beginning with the successful provisioning of a Windows Virtual Machine. Initially, I mistakenly provisioned a Linux VM, which was a significant oversight. Recognizing and rectifying this error was a crucial turning point. Subsequently, I was able to move forward with installing SQL Server and SQL Server Management Studio (SSMS), securing the essential tools for effective database management. Furthermore, I successfully restored the database required for the upcoming migration task. Completing this milestone was immensely satisfying, as it represented a significant achievement amidst the challenges posed by the initial missteps that significantly impacted my progress.
 
-- **Milestone 3: **
-- **Milestone 4: **
-- **Milestone 5: **
-- **Milestone 6: **
-- **Milestone 7: **
+- **Milestone 3:**
+- **Milestone 4:**
+- **Milestone 5:**
+- **Milestone 6:**
+- **Milestone 7:**
 
 ## Conclusion
 Summarise the project outcomes and any future plans or improvements.
