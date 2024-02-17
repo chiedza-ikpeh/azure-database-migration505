@@ -18,6 +18,19 @@ I embarked on this project on December 14, 2023, with the primary objective of d
   Successfully migrating a database from my local (on-premises) server to my Azure server using Azure Data Studio marked the third milestone of this project. This phase allowed me to learn the end-to-end process of database migration comprehensively. Reflecting on the challenges encountered, one significant hurdle was navigating user permissions. During the migration process, I realized the need to halt and modify my user permissions to apply the migration changes effectively and validate the process. Overcoming this challenge was pivotal in understanding the intricacies of cloud-based database management. Celebrating the successful completion of this phase, I found it to be somewhat smoother than Milestone 2, albeit not without its own set of challenges. The experience gained from navigating these hurdles has been invaluable, enhancing my understanding and skills in cloud database migration. This milestone, while challenging, has been a rewarding demonstration of the progress achievable through persistence and adaptability.
 
 - **Milestone 4: Database Back Up and Restore**
+  
+  Here, I focused on implementing a robust backup and restore strategy for the database. This involved ensuring that the critical data stored in the database could be safely backed up and restored in case of unexpected incidents or data loss scenarios. By achieving this milestone, I aimed to enhance the resilience and reliability of the database system, thereby safeguarding the integrity of the data and ensuring business continuity.
+
+    *Steps Taken for Database Backup:*
+    
+    - Evaluation of Backup Requirements: I began by assessing the backup requirements, considering factors such as data volume, frequency of updates, and recovery point objectives (RPOs) to determine the appropriate backup strategy.
+    - Configuration of Backup Settings: Using SQL Server Management Studio (SSMS), I configured backup settings such as the backup type (full, differential, or transaction log), backup destination, and retention policies to meet the defined backup requirements.
+    - Execution of Backup Operations: With the backup settings in place, I executed backup operations using SSMS, initiating full database backups to capture the entire database state at specific points in time.
+    - Verification of Backup Completion: After each backup operation, I verified the completion and integrity of the backup files generated, ensuring that they were successfully stored in the designated backup destination without errors.
+    - Testing of Restore Process: To validate the effectiveness of the backup strategy, I performed test restores from the backup files to a separate environment, confirming that the restored database retained its integrity and consistency.
+
+  By meticulously following these steps, I successfully established a comprehensive backup and restore mechanism for the database, ensuring the availability and recoverability of critical data assets in the Azure environment. This milestone underscores the importance of proactive data protection measures in maintaining the resilience and continuity of cloud-based database systems. 
+
 - **Milestone 5: Disaster Recovery Simulation**
 - **Milestone 6: Georeplication Failover**
 - **Milestone 7: Microsoft Entra Directory Migration**
