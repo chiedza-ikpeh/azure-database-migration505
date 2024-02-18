@@ -32,6 +32,21 @@ I embarked on this project on December 14, 2023, with the primary objective of d
   By meticulously following these steps, I successfully established a comprehensive backup and restore mechanism for the database, ensuring the availability and recoverability of critical data assets in the Azure environment. This milestone underscores the importance of proactive data protection measures in maintaining the resilience and continuity of cloud-based database systems. 
 
 - **Milestone 5: Disaster Recovery Simulation**
+
+  During this phase, I encountered significant challenges that prolonged the duration of the task beyond my initial estimates. Despite meticulous planning and preparation, unforeseen hurdles arose during the delete and restore process, leading to delays in completion. These challenges encompassed a variety of technical and operational issues, which required extensive troubleshooting and investigation to overcome. However, after dedicating additional time and effort to address these obstacles, I ultimately achieved success in executing the delete and restore process. This experience served as a valuable learning opportunity, highlighting the importance of resilience, perseverance, and continuous improvement in navigating complex tasks within the Azure Database Migration project. For the disaster recovery simulation, I intentionally deleted critical data from the production database to replicate a scenario where data integrity is compromised. The following steps outline the delete and restore process, along with documentation of the simulation:
+  
+  1. **Delete Process:**
+     - Executed DELETE statements in SQL Server Management Studio (SSMS) to remove specific data from the database.
+     - Documented the simulated data loss, including affected tables, rows, and conditions, in the README file.
+  
+  2. **Restore Process:**
+     - Restored the database from a recent backup using Azure portal.
+     - Referenced the documentation created in Step 1 as a blueprint for restoring the critical data lost during the simulation.
+  
+  3. **Validation:**
+     - Used Azure Data Studio to connect to the restored database and verified that the critical data was successfully recovered.
+     - Documented the success of the restoration process in the README file.
+
 - **Milestone 6: Georeplication Failover**
 - **Milestone 7: Microsoft Entra Directory Migration**
 
