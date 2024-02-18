@@ -1,4 +1,4 @@
-#### Data Loss Simulation
+## Data Loss Simulation
 
 ### Description of Data Loss:
 - Simulated data loss scenario to test recovery procedures.
