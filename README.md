@@ -48,6 +48,9 @@ I embarked on this project on December 14, 2023, with the primary objective of d
      - Documented the success of the restoration process in the README file.
 
 - **Milestone 6: Georeplication Failover**
+
+  As I approached the conclusion of this project, the successful setup of geo-replication for the production Azure SQL Database brought a sense of relief and satisfaction. This critical step in fortifying the database system against potential disasters or disruptions was meticulously executed. Leveraging the Azure Portal, I configured a synchronized replica of the primary database in a separate geographical region, ensuring seamless synchronization between the two databases. Monitoring the replication status provided valuable insights into the effectiveness of the setup, reaffirming the importance of proactive disaster recovery measures. The geographical separation not only minimized shared risks but also bolstered overall data availability and integrity, marking a significant milestone in the optimization of database management and deployment on Microsoft Azure.
+  
 - **Milestone 7: Microsoft Entra Directory Migration**
 
 ## Conclusion
