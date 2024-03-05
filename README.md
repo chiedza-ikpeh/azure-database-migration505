@@ -5,7 +5,7 @@ I commenced this project on December 14, 2023, with the primary objective of dem
 
 ***Click here to view the Project UML diagram***
 
-## Achievements
+## Milestone Achievements
 
 - **Milestone 1: Setting Up the Environment**
   
