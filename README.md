@@ -1,7 +1,9 @@
 # Project: Azure Database Migration
 
 ## Introduction
-I embarked on this project on December 14, 2023, with the primary objective of demonstrating my capability in architecting and implementing a cloud-based database system on Microsoft Azure. This endeavor is a testament to my hands-on expertise in cloud engineering, beginning with the establishment of a production environment database. Following this, my focus will shift towards migrating the database to Azure SQL Database, showcasing the practical steps and methodologies involved in leveraging cloud technologies for optimal database management and deployment.
+I commenced this project on December 14, 2023, with the primary objective of demonstrating my capability in architecting and implementing a cloud-based database system on Microsoft Azure. This endeavour is a testament to my hands-on expertise in cloud engineering, beginning with the establishment of a production environment database. Following this, my focus will shift towards migrating the database to Azure SQL Database, showcasing the practical steps and methodologies involved in leveraging cloud technologies for optimal database management and deployment. I successfully completed the project on March 5, 2024.
+
+***Click here to view the Project UML diagram***
 
 ## Achievements
 
